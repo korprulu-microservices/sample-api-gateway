@@ -8,4 +8,5 @@ spring:
     config:
       discovery:
         enabled: true
+        serviceId: sample-config
 
